@@ -1,2 +1,2 @@
 # next-js-demo-project
-website using next js
+This is just a demo project i tried using next js.
